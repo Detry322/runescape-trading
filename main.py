@@ -10,16 +10,17 @@ END_TIME = 1508085531453
 
 RANGE = range(START_TIME, END_TIME, INCREMENT)
 
-METRIC = orderbook_regression_r2
-FILTER = lambda item: 1500000 > item['overall_average'] > 100000
+METRIC = normalized(orderbook_regression_error)
+ITEM_FILTER = lambda item: 15000 > item['overall_average'] > 100
+ORDERBOOK_FILTER = lambda orderbook: orderbook.volume_at(END_TIME) > 4
 
 def load_orderbooks():
     summary_file = relative_path('data', 'summary.json')
     with open(summary_file, 'r') as f:
         summaries = json.load(f)
-        downloadable = [item_summary for item_summary in summaries.values() if FILTER(item_summary)]
+        downloadable = [item_summary for item_summary in summaries.values() if ITEM_FILTER(item_summary)]
         orderbooks = [Orderbook(summaries, item['id']) for item in downloadable]
-        return orderbooks
+        return [orderbook for orderbook in orderbooks if ORDERBOOK_FILTER(orderbook)]
 
 def main():
     orderbooks = load_orderbooks()
