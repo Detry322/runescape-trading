@@ -1,5 +1,6 @@
 from helpers import stddev
 
+import numpy as np
 from sklearn import linear_model
 from sklearn.metrics import mean_squared_error, r2_score
 
@@ -35,3 +36,18 @@ def orderbook_unbounded_bid(orderbook, r):
 
 def orderbook_unbounded(orderbook, r):
     return orderbook_unbounded_offer(orderbook, r) + orderbook_unbounded_bid(orderbook, r)
+
+def orderbook_regression_error(orderbook, r):
+    samples = [orderbook.price_at(timestamp) for timestamp in r]
+    r = np.array(r).reshape(-1, 1)
+    regr = linear_model.LinearRegression()
+    regr.fit(r, samples)
+    predicted = regr.predict(r)
+    return mean_squared_error(samples, predicted)**0.5
+
+def orderbook_regression_r2(orderbook, r):
+    samples = [orderbook.price_at(timestamp) for timestamp in r]
+    r = np.array(r).reshape(-1, 1)
+    regr = linear_model.LinearRegression()
+    regr.fit(r, samples)
+    return -regr.score(r, samples)
