@@ -11,7 +11,7 @@ END_TIME = 1508085531453
 RANGE = range(START_TIME, END_TIME, INCREMENT)
 
 METRIC = normalized(orderbook_regression_error)
-ITEM_FILTER = lambda item: 15000 > item['overall_average'] > 100
+ITEM_FILTER = lambda item: 15000 > item['overall_average'] > 2000
 ORDERBOOK_FILTER = lambda orderbook: orderbook.volume_at(END_TIME) > 4
 
 def load_orderbooks():
