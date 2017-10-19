@@ -1,4 +1,5 @@
 import os
+import json
 
 def stddev(lst):
     """calculates standard deviation"""
@@ -12,3 +13,10 @@ def normalized(func):
 
 def relative_path(*args):
     return os.path.join(os.path.dirname(os.path.realpath(__file__)), *args)
+
+def find_end_time():
+    CANNONBALL_ID = '2'
+    with open(relative_path('data', '{}.json'.format(CANNONBALL_ID)), 'r') as f:
+        data = json.load(f)
+        return data[-1]['ts']
+

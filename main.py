@@ -1,18 +1,23 @@
 import json
 
-from helpers import relative_path, normalized
+from helpers import relative_path, normalized, find_end_time
 from orderbook import Orderbook
 from metrics import orderbook_stddev, orderbook_spread, orderbook_unbounded, orderbook_regression_error, orderbook_regression_r2
 
-INCREMENT = 30*60*1000 # minutes
-START_TIME = 1507828958159 # Wed Sep 20 2017 13:30:00 GMT-0400 (EDT)
-END_TIME = 1508085531453
+# Configurable
 
+INCREMENT = 30*60*1000 # 30 minutes
+HISTORY_AMOUNT = 4*24*60*60*1000 # how many ms in the past to look at, in this case, 4 days
+
+METRIC = orderbook_regression_error
+ITEM_FILTER = lambda item: 1500000 > item['overall_average'] > 2000
+ORDERBOOK_FILTER = lambda orderbook: orderbook.volume_at(END_TIME)
+
+# Calculated
+
+END_TIME = find_end_time()
+START_TIME = END_TIME - HISTORY_AMOUNT
 RANGE = range(START_TIME, END_TIME, INCREMENT)
-
-METRIC = normalized(orderbook_regression_error)
-ITEM_FILTER = lambda item: 15000 > item['overall_average'] > 2000
-ORDERBOOK_FILTER = lambda orderbook: orderbook.volume_at(END_TIME) > 4
 
 def load_orderbooks():
     summary_file = relative_path('data', 'summary.json')
