@@ -48,7 +48,7 @@ def download_items(items):
     p.map(single_download, items)
 
 def main():
-    summary_file = relative_path('data', 'summary.json')
+    summary_file = relative_path('static', 'summary.json')
     with open(summary_file, 'r') as f:
         summary = json.load(f)
     print "Loaded {} runescape items".format(len(summary))

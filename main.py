@@ -20,7 +20,7 @@ START_TIME = END_TIME - HISTORY_AMOUNT
 RANGE = range(START_TIME, END_TIME, INCREMENT)
 
 def load_orderbooks():
-    summary_file = relative_path('data', 'summary.json')
+    summary_file = relative_path('static', 'summary.json')
     with open(summary_file, 'r') as f:
         summaries = json.load(f)
         downloadable = [item_summary for item_summary in summaries.values() if ITEM_FILTER(item_summary)]

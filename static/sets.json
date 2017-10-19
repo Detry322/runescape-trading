@@ -1,0 +1,1844 @@
+{
+    "12877": {
+        "parts": [
+            {
+                "name": "Dharok's helm",
+                "id": "4716"
+            },
+            {
+                "name": "Dharok's platebody",
+                "id": "4720"
+            },
+            {
+                "name": "Dharok's platelegs",
+                "id": "4722"
+            },
+            {
+                "name": "Dharok's greataxe",
+                "id": "4718"
+            }
+        ],
+        "name": "Dharok's armour set",
+        "id": "12877"
+    },
+    "12875": {
+        "parts": [
+            {
+                "name": "Verac's helm",
+                "id": "4753"
+            },
+            {
+                "name": "Verac's brassard",
+                "id": "4757"
+            },
+            {
+                "name": "Verac's plateskirt",
+                "id": "4759"
+            },
+            {
+                "name": "Verac's flail",
+                "id": "4755"
+            }
+        ],
+        "name": "Verac's armour set",
+        "id": "12875"
+    },
+    "12873": {
+        "parts": [
+            {
+                "name": "Guthan's helm",
+                "id": "4724"
+            },
+            {
+                "name": "Guthan's platebody",
+                "id": "4728"
+            },
+            {
+                "name": "Guthan's chainskirt",
+                "id": "4730"
+            },
+            {
+                "name": "Guthan's warspear",
+                "id": "4726"
+            }
+        ],
+        "name": "Guthan's armour set",
+        "id": "12873"
+    },
+    "12978": {
+        "parts": [
+            {
+                "name": "Iron full helm (t)",
+                "id": "12231"
+            },
+            {
+                "name": "Iron platebody (t)",
+                "id": "12225"
+            },
+            {
+                "name": "Iron plateskirt (t)",
+                "id": "12229"
+            },
+            {
+                "name": "Iron kiteshield (t)",
+                "id": "12233"
+            }
+        ],
+        "name": "Iron trimmed set (sk)",
+        "id": "12978"
+    },
+    "12871": {
+        "parts": [
+            {
+                "name": "Black d'hide body",
+                "id": "2503"
+            },
+            {
+                "name": "Black d'hide chaps",
+                "id": "2497"
+            },
+            {
+                "name": "Black d'hide vamb",
+                "id": "2491"
+            }
+        ],
+        "name": "Black dragonhide set",
+        "id": "12871"
+    },
+    "12974": {
+        "parts": [
+            {
+                "name": "Iron full helm",
+                "id": "1153"
+            },
+            {
+                "name": "Iron platebody",
+                "id": "1115"
+            },
+            {
+                "name": "Iron plateskirt",
+                "id": "1081"
+            },
+            {
+                "name": "Iron kiteshield",
+                "id": "1191"
+            }
+        ],
+        "name": "Iron set (sk)",
+        "id": "12974"
+    },
+    "21049": {
+        "parts": [
+            {
+                "name": "Ancestral hat",
+                "id": "21018"
+            },
+            {
+                "name": "Ancestral robe top",
+                "id": "21021"
+            },
+            {
+                "name": "Ancestral robe bottom",
+                "id": "21024"
+            }
+        ],
+        "name": "Ancestral robes set",
+        "id": "21049"
+    },
+    "12879": {
+        "parts": [
+            {
+                "name": "Torag's helm",
+                "id": "4745"
+            },
+            {
+                "name": "Torag's platebody",
+                "id": "4749"
+            },
+            {
+                "name": "Torag's platelegs",
+                "id": "4751"
+            },
+            {
+                "name": "Torag's hammers",
+                "id": "4747"
+            }
+        ],
+        "name": "Torag's armour set",
+        "id": "12879"
+    },
+    "12986": {
+        "parts": [
+            {
+                "name": "Steel full helm",
+                "id": "1157"
+            },
+            {
+                "name": "Steel platebody",
+                "id": "1119"
+            },
+            {
+                "name": "Steel plateskirt",
+                "id": "1083"
+            },
+            {
+                "name": "Steel kiteshield",
+                "id": "1193"
+            }
+        ],
+        "name": "Steel set (sk)",
+        "id": "12986"
+    },
+    "13030": {
+        "parts": [
+            {
+                "name": "Rune full helm (t)",
+                "id": "2627"
+            },
+            {
+                "name": "Rune platebody (t)",
+                "id": "2623"
+            },
+            {
+                "name": "Rune plateskirt (t)",
+                "id": "3477"
+            },
+            {
+                "name": "Rune kiteshield (t)",
+                "id": "2629"
+            }
+        ],
+        "name": "Rune trimmed set (sk)",
+        "id": "13030"
+    },
+    "12984": {
+        "parts": [
+            {
+                "name": "Steel full helm",
+                "id": "1157"
+            },
+            {
+                "name": "Steel platebody",
+                "id": "1119"
+            },
+            {
+                "name": "Steel platelegs",
+                "id": "1069"
+            },
+            {
+                "name": "Steel kiteshield",
+                "id": "1193"
+            }
+        ],
+        "name": "Steel set (lg)",
+        "id": "12984"
+    },
+    "12968": {
+        "parts": [
+            {
+                "name": "Bronze full helm (g)",
+                "id": "12211"
+            },
+            {
+                "name": "Bronze platebody (g)",
+                "id": "12205"
+            },
+            {
+                "name": "Bronze platelegs (g)",
+                "id": "12207"
+            },
+            {
+                "name": "Bronze kiteshield (g)",
+                "id": "12213"
+            }
+        ],
+        "name": "Bronze gold-trimmed set (lg)",
+        "id": "12968"
+    },
+    "13165": {
+        "parts": [
+            {
+                "name": "Guthix coif",
+                "id": "10382"
+            },
+            {
+                "name": "Guthix dragonhide",
+                "id": "10378"
+            },
+            {
+                "name": "Guthix chaps",
+                "id": "10380"
+            },
+            {
+                "name": "Guthix bracers",
+                "id": "10376"
+            }
+        ],
+        "name": "Guthix dragonhide set",
+        "id": "13165"
+    },
+    "12980": {
+        "parts": [
+            {
+                "name": "Iron full helm (g)",
+                "id": "12241"
+            },
+            {
+                "name": "Iron platebody (g)",
+                "id": "12235"
+            },
+            {
+                "name": "Iron platelegs (g)",
+                "id": "12237"
+            },
+            {
+                "name": "Iron kiteshield (g)",
+                "id": "12243"
+            }
+        ],
+        "name": "Iron gold-trimmed set (lg)",
+        "id": "12980"
+    },
+    "12976": {
+        "parts": [
+            {
+                "name": "Iron full helm (t)",
+                "id": "12231"
+            },
+            {
+                "name": "Iron platebody (t)",
+                "id": "12225"
+            },
+            {
+                "name": "Iron platelegs (t)",
+                "id": "12227"
+            },
+            {
+                "name": "Iron kiteshield (t)",
+                "id": "12233"
+            }
+        ],
+        "name": "Iron trimmed set (lg)",
+        "id": "12976"
+    },
+    "12964": {
+        "parts": [
+            {
+                "name": "Bronze full helm (t)",
+                "id": "12221"
+            },
+            {
+                "name": "Bronze platebody (t)",
+                "id": "12215"
+            },
+            {
+                "name": "Bronze platelegs (t)",
+                "id": "12217"
+            },
+            {
+                "name": "Bronze kiteshield (t)",
+                "id": "12223"
+            }
+        ],
+        "name": "Bronze trimmed set (lg)",
+        "id": "12964"
+    },
+    "21279": {
+        "parts": [
+            {
+                "name": "Obsidian helmet",
+                "id": "21298"
+            },
+            {
+                "name": "Obsidian platebody",
+                "id": "21301"
+            },
+            {
+                "name": "Obsidian platelegs",
+                "id": "21304"
+            }
+        ],
+        "name": "Obsidian armour set",
+        "id": "21279"
+    },
+    "12966": {
+        "parts": [
+            {
+                "name": "Bronze full helm (t)",
+                "id": "12221"
+            },
+            {
+                "name": "Bronze platebody (t)",
+                "id": "12215"
+            },
+            {
+                "name": "Bronze plateskirt (t)",
+                "id": "12219"
+            },
+            {
+                "name": "Bronze kiteshield (t)",
+                "id": "12223"
+            }
+        ],
+        "name": "Bronze trimmed set (sk)",
+        "id": "12966"
+    },
+    "12960": {
+        "parts": [
+            {
+                "name": "Bronze full helm",
+                "id": "1155"
+            },
+            {
+                "name": "Bronze platebody",
+                "id": "1117"
+            },
+            {
+                "name": "Bronze platelegs",
+                "id": "1075"
+            },
+            {
+                "name": "Bronze kiteshield",
+                "id": "1189"
+            }
+        ],
+        "name": "Bronze set (lg)",
+        "id": "12960"
+    },
+    "12962": {
+        "parts": [
+            {
+                "name": "Bronze full helm",
+                "id": "1155"
+            },
+            {
+                "name": "Bronze platebody",
+                "id": "1117"
+            },
+            {
+                "name": "Bronze plateskirt",
+                "id": "1087"
+            },
+            {
+                "name": "Bronze kiteshield",
+                "id": "1189"
+            }
+        ],
+        "name": "Bronze set (sk)",
+        "id": "12962"
+    },
+    "20379": {
+        "parts": [
+            {
+                "name": "Steel full helm (t)",
+                "id": "20193"
+            },
+            {
+                "name": "Steel platebody (t)",
+                "id": "20184"
+            },
+            {
+                "name": "Steel plateskirt (t)",
+                "id": "20190"
+            },
+            {
+                "name": "Steel kiteshield (t)",
+                "id": "20196"
+            }
+        ],
+        "name": "Steel trimmed set (sk)",
+        "id": "20379"
+    },
+    "13066": {
+        "parts": [
+            {
+                "name": "Super attack(4)",
+                "id": "2436"
+            },
+            {
+                "name": "Super strength(4)",
+                "id": "2440"
+            },
+            {
+                "name": "Super defence(4)",
+                "id": "2442"
+            }
+        ],
+        "name": "Super potion set",
+        "id": "13066"
+    },
+    "13064": {
+        "parts": [
+            {
+                "name": "Attack potion(4)",
+                "id": "2428"
+            },
+            {
+                "name": "Strength potion(4)",
+                "id": "113"
+            },
+            {
+                "name": "Defence potion(4)",
+                "id": "2432"
+            }
+        ],
+        "name": "Combat potion set",
+        "id": "13064"
+    },
+    "13062": {
+        "parts": [
+            {
+                "name": "Ancient full helm",
+                "id": "12466"
+            },
+            {
+                "name": "Ancient platebody",
+                "id": "12460"
+            },
+            {
+                "name": "Ancient plateskirt",
+                "id": "12464"
+            },
+            {
+                "name": "Ancient kiteshield",
+                "id": "12468"
+            }
+        ],
+        "name": "Ancient rune armour set (sk)",
+        "id": "13062"
+    },
+    "13004": {
+        "parts": [
+            {
+                "name": "Mithril full helm (t)",
+                "id": "12293"
+            },
+            {
+                "name": "Mithril platebody (t)",
+                "id": "12287"
+            },
+            {
+                "name": "Mithril platelegs (t)",
+                "id": "12289"
+            },
+            {
+                "name": "Mithril kiteshield (t)",
+                "id": "12291"
+            }
+        ],
+        "name": "Mithril trimmed set (lg)",
+        "id": "13004"
+    },
+    "13149": {
+        "parts": [
+            {
+                "name": "Saradomin page 1",
+                "id": "3827"
+            },
+            {
+                "name": "Saradomin page 2",
+                "id": "3828"
+            },
+            {
+                "name": "Saradomin page 3",
+                "id": "3829"
+            },
+            {
+                "name": "Saradomin page 4",
+                "id": "3830"
+            }
+        ],
+        "name": "Holy book page set",
+        "id": "13149"
+    },
+    "13058": {
+        "parts": [
+            {
+                "name": "Bandos full helm",
+                "id": "12486"
+            },
+            {
+                "name": "Bandos platebody",
+                "id": "12480"
+            },
+            {
+                "name": "Bandos plateskirt",
+                "id": "12484"
+            },
+            {
+                "name": "Bandos kiteshield",
+                "id": "12488"
+            }
+        ],
+        "name": "Bandos rune armour set (sk)",
+        "id": "13058"
+    },
+    "20376": {
+        "parts": [
+            {
+                "name": "Steel full helm (t)",
+                "id": "20193"
+            },
+            {
+                "name": "Steel platebody (t)",
+                "id": "20184"
+            },
+            {
+                "name": "Steel platelegs (t)",
+                "id": "20187"
+            },
+            {
+                "name": "Steel kiteshield (t)",
+                "id": "20196"
+            }
+        ],
+        "name": "Steel trimmed set (lg)",
+        "id": "20376"
+    },
+    "13022": {
+        "parts": [
+            {
+                "name": "Adamant full helm (g)",
+                "id": "2613"
+            },
+            {
+                "name": "Adamant platebody (g)",
+                "id": "2607"
+            },
+            {
+                "name": "Adamant plateskirt (g)",
+                "id": "3475"
+            },
+            {
+                "name": "Adamant kiteshield (g)",
+                "id": "2611"
+            }
+        ],
+        "name": "Adamant gold-trimmed set (sk)",
+        "id": "13022"
+    },
+    "13006": {
+        "parts": [
+            {
+                "name": "Mithril full helm (t)",
+                "id": "12293"
+            },
+            {
+                "name": "Mithril platebody (t)",
+                "id": "12287"
+            },
+            {
+                "name": "Mithril plateskirt (t)",
+                "id": "12295"
+            },
+            {
+                "name": "Mithril kiteshield (t)",
+                "id": "12291"
+            }
+        ],
+        "name": "Mithril trimmed set (sk)",
+        "id": "13006"
+    },
+    "13026": {
+        "parts": [
+            {
+                "name": "Rune full helm",
+                "id": "1163"
+            },
+            {
+                "name": "Rune platebody",
+                "id": "1127"
+            },
+            {
+                "name": "Rune plateskirt",
+                "id": "1093"
+            },
+            {
+                "name": "Rune kiteshield",
+                "id": "1201"
+            }
+        ],
+        "name": "Rune armour set (sk)",
+        "id": "13026"
+    },
+    "13002": {
+        "parts": [
+            {
+                "name": "Mithril full helm",
+                "id": "1159"
+            },
+            {
+                "name": "Mithril platebody",
+                "id": "1121"
+            },
+            {
+                "name": "Mithril plateskirt",
+                "id": "1085"
+            },
+            {
+                "name": "Mithril kiteshield",
+                "id": "1197"
+            }
+        ],
+        "name": "Mithril set (sk)",
+        "id": "13002"
+    },
+    "13040": {
+        "parts": [
+            {
+                "name": "Saradomin full helm",
+                "id": "2665"
+            },
+            {
+                "name": "Saradomin platebody",
+                "id": "2661"
+            },
+            {
+                "name": "Saradomin platelegs",
+                "id": "2663"
+            },
+            {
+                "name": "Saradomin kiteshield",
+                "id": "2667"
+            }
+        ],
+        "name": "Saradomin armour set (lg)",
+        "id": "13040"
+    },
+    "12988": {
+        "parts": [
+            {
+                "name": "Black full helm",
+                "id": "1165"
+            },
+            {
+                "name": "Black platebody",
+                "id": "1125"
+            },
+            {
+                "name": "Black platelegs",
+                "id": "1077"
+            },
+            {
+                "name": "Black kiteshield",
+                "id": "1195"
+            }
+        ],
+        "name": "Black set (lg)",
+        "id": "12988"
+    },
+    "13008": {
+        "parts": [
+            {
+                "name": "Mithril full helm (g)",
+                "id": "12283"
+            },
+            {
+                "name": "Mithril platebody (g)",
+                "id": "12277"
+            },
+            {
+                "name": "Mithril platelegs (g)",
+                "id": "12279"
+            },
+            {
+                "name": "Mithril kiteshield (g)",
+                "id": "12281"
+            }
+        ],
+        "name": "Mithril gold-trimmed set (lg)",
+        "id": "13008"
+    },
+    "13000": {
+        "parts": [
+            {
+                "name": "Mithril full helm",
+                "id": "1159"
+            },
+            {
+                "name": "Mithril platebody",
+                "id": "1121"
+            },
+            {
+                "name": "Mithril platelegs",
+                "id": "1071"
+            },
+            {
+                "name": "Mithril kiteshield",
+                "id": "1197"
+            }
+        ],
+        "name": "Mithril set (lg)",
+        "id": "13000"
+    },
+    "20385": {
+        "parts": [
+            {
+                "name": "Steel full helm (g)",
+                "id": "20178"
+            },
+            {
+                "name": "Steel platebody (g)",
+                "id": "20169"
+            },
+            {
+                "name": "Steel plateskirt (g)",
+                "id": "20175"
+            },
+            {
+                "name": "Steel kiteshield (g)",
+                "id": "20181"
+            }
+        ],
+        "name": "Steel gold-trimmed set (sk)",
+        "id": "20385"
+    },
+    "12863": {
+        "parts": [
+            {
+                "name": "Cannon base",
+                "id": "6"
+            },
+            {
+                "name": "Cannon stand",
+                "id": "8"
+            },
+            {
+                "name": "Cannon barrels",
+                "id": "10"
+            },
+            {
+                "name": "Cannon furnace",
+                "id": "12"
+            }
+        ],
+        "name": "Dwarf cannon set",
+        "id": "12863"
+    },
+    "12865": {
+        "parts": [
+            {
+                "name": "Green d'hide body",
+                "id": "1135"
+            },
+            {
+                "name": "Green d'hide chaps",
+                "id": "1099"
+            },
+            {
+                "name": "Green d'hide vamb",
+                "id": "1065"
+            }
+        ],
+        "name": "Green dragonhide set",
+        "id": "12865"
+    },
+    "20382": {
+        "parts": [
+            {
+                "name": "Steel full helm (g)",
+                "id": "20178"
+            },
+            {
+                "name": "Steel platebody (g)",
+                "id": "20169"
+            },
+            {
+                "name": "Steel platelegs (g)",
+                "id": "20172"
+            },
+            {
+                "name": "Steel kiteshield (g)",
+                "id": "20181"
+            }
+        ],
+        "name": "Steel gold-trimmed set (lg)",
+        "id": "20382"
+    },
+    "12867": {
+        "parts": [
+            {
+                "name": "Blue d'hide body",
+                "id": "2499"
+            },
+            {
+                "name": "Blue d'hide chaps",
+                "id": "2493"
+            },
+            {
+                "name": "Blue d'hide vamb",
+                "id": "2487"
+            }
+        ],
+        "name": "Blue dragonhide set",
+        "id": "12867"
+    },
+    "12869": {
+        "parts": [
+            {
+                "name": "Red d'hide body",
+                "id": "2501"
+            },
+            {
+                "name": "Red d'hide chaps",
+                "id": "2495"
+            },
+            {
+                "name": "Red d'hide vamb",
+                "id": "2489"
+            }
+        ],
+        "name": "Red dragonhide set",
+        "id": "12869"
+    },
+    "13024": {
+        "parts": [
+            {
+                "name": "Rune full helm",
+                "id": "1163"
+            },
+            {
+                "name": "Rune platebody",
+                "id": "1127"
+            },
+            {
+                "name": "Rune platelegs",
+                "id": "1079"
+            },
+            {
+                "name": "Rune kiteshield",
+                "id": "1201"
+            }
+        ],
+        "name": "Rune armour set (lg)",
+        "id": "13024"
+    },
+    "12883": {
+        "parts": [
+            {
+                "name": "Karil's coif",
+                "id": "4732"
+            },
+            {
+                "name": "Karil's leathertop",
+                "id": "4736"
+            },
+            {
+                "name": "Karil's leatherskirt",
+                "id": "4738"
+            },
+            {
+                "name": "Karil's crossbow",
+                "id": "4734"
+            }
+        ],
+        "name": "Karil's armour set",
+        "id": "12883"
+    },
+    "13018": {
+        "parts": [
+            {
+                "name": "Adamant full helm (t)",
+                "id": "2605"
+            },
+            {
+                "name": "Adamant platebody (t)",
+                "id": "2599"
+            },
+            {
+                "name": "Adamant plateskirt (t)",
+                "id": "3474"
+            },
+            {
+                "name": "Adamant kiteshield (t)",
+                "id": "2603"
+            }
+        ],
+        "name": "Adamant trimmed set (sk)",
+        "id": "13018"
+    },
+    "12881": {
+        "parts": [
+            {
+                "name": "Ahrim's hood",
+                "id": "4708"
+            },
+            {
+                "name": "Ahrim's robetop",
+                "id": "4712"
+            },
+            {
+                "name": "Ahrim's robeskirt",
+                "id": "4714"
+            },
+            {
+                "name": "Ahrim's staff",
+                "id": "4710"
+            }
+        ],
+        "name": "Ahrim's armour set",
+        "id": "12881"
+    },
+    "12990": {
+        "parts": [
+            {
+                "name": "Black full helm",
+                "id": "1165"
+            },
+            {
+                "name": "Black platebody",
+                "id": "1125"
+            },
+            {
+                "name": "Black plateskirt",
+                "id": "1089"
+            },
+            {
+                "name": "Black kiteshield",
+                "id": "1195"
+            }
+        ],
+        "name": "Black set (sk)",
+        "id": "12990"
+    },
+    "13171": {
+        "parts": [
+            {
+                "name": "Ancient coif",
+                "id": "12496"
+            },
+            {
+                "name": "Ancient d'hide",
+                "id": "12492"
+            },
+            {
+                "name": "Ancient chaps",
+                "id": "12494"
+            },
+            {
+                "name": "Ancient bracers",
+                "id": "12490"
+            }
+        ],
+        "name": "Ancient dragonhide set",
+        "id": "13171"
+    },
+    "12992": {
+        "parts": [
+            {
+                "name": "Black full helm (t)",
+                "id": "2587"
+            },
+            {
+                "name": "Black platebody (t)",
+                "id": "2583"
+            },
+            {
+                "name": "Black platelegs (t)",
+                "id": "2585"
+            },
+            {
+                "name": "Black kiteshield (t)",
+                "id": "2589"
+            }
+        ],
+        "name": "Black trimmed set (lg)",
+        "id": "12992"
+    },
+    "12994": {
+        "parts": [
+            {
+                "name": "Black full helm (t)",
+                "id": "2587"
+            },
+            {
+                "name": "Black platebody (t)",
+                "id": "2583"
+            },
+            {
+                "name": "Black plateskirt (t)",
+                "id": "3472"
+            },
+            {
+                "name": "Black kiteshield (t)",
+                "id": "2589"
+            }
+        ],
+        "name": "Black trimmed set (sk)",
+        "id": "12994"
+    },
+    "13020": {
+        "parts": [
+            {
+                "name": "Adamant full helm (g)",
+                "id": "2613"
+            },
+            {
+                "name": "Adamant platebody (g)",
+                "id": "2607"
+            },
+            {
+                "name": "Adamant platelegs (g)",
+                "id": "2609"
+            },
+            {
+                "name": "Adamant kiteshield (g)",
+                "id": "2611"
+            }
+        ],
+        "name": "Adamant gold-trimmed set (lg)",
+        "id": "13020"
+    },
+    "12996": {
+        "parts": [
+            {
+                "name": "Black full helm (g)",
+                "id": "2595"
+            },
+            {
+                "name": "Black platebody (g)",
+                "id": "2591"
+            },
+            {
+                "name": "Black platelegs (g)",
+                "id": "2593"
+            },
+            {
+                "name": "Black kiteshield (g)",
+                "id": "2597"
+            }
+        ],
+        "name": "Black gold-trimmed set (lg)",
+        "id": "12996"
+    },
+    "13163": {
+        "parts": [
+            {
+                "name": "Saradomin coif",
+                "id": "10390"
+            },
+            {
+                "name": "Saradomin d'hide",
+                "id": "10386"
+            },
+            {
+                "name": "Saradomin chaps",
+                "id": "10388"
+            },
+            {
+                "name": "Saradomin bracers",
+                "id": "10384"
+            }
+        ],
+        "name": "Saradomin dragonhide set",
+        "id": "13163"
+    },
+    "12998": {
+        "parts": [
+            {
+                "name": "Black full helm (g)",
+                "id": "2595"
+            },
+            {
+                "name": "Black platebody (g)",
+                "id": "2591"
+            },
+            {
+                "name": "Black plateskirt (g)",
+                "id": "3473"
+            },
+            {
+                "name": "Black kiteshield (g)",
+                "id": "2597"
+            }
+        ],
+        "name": "Black gold-trimmed set (sk)",
+        "id": "12998"
+    },
+    "13169": {
+        "parts": [
+            {
+                "name": "Armadyl coif",
+                "id": "12512"
+            },
+            {
+                "name": "Armadyl d'hide",
+                "id": "12508"
+            },
+            {
+                "name": "Armadyl chaps",
+                "id": "12510"
+            },
+            {
+                "name": "Armadyl bracers",
+                "id": "12506"
+            }
+        ],
+        "name": "Armadyl dragonhide set",
+        "id": "13169"
+    },
+    "13042": {
+        "parts": [
+            {
+                "name": "Saradomin full helm",
+                "id": "2665"
+            },
+            {
+                "name": "Saradomin platebody",
+                "id": "2661"
+            },
+            {
+                "name": "Saradomin plateskirt",
+                "id": "3479"
+            },
+            {
+                "name": "Saradomin kiteshield",
+                "id": "2667"
+            }
+        ],
+        "name": "Saradomin armour set (sk)",
+        "id": "13042"
+    },
+    "12972": {
+        "parts": [
+            {
+                "name": "Iron full helm",
+                "id": "1153"
+            },
+            {
+                "name": "Iron platebody",
+                "id": "1115"
+            },
+            {
+                "name": "Iron platelegs",
+                "id": "1067"
+            },
+            {
+                "name": "Iron kiteshield",
+                "id": "1191"
+            }
+        ],
+        "name": "Iron set (lg)",
+        "id": "12972"
+    },
+    "13050": {
+        "parts": [
+            {
+                "name": "Guthix full helm",
+                "id": "2673"
+            },
+            {
+                "name": "Guthix platebody",
+                "id": "2669"
+            },
+            {
+                "name": "Guthix plateskirt",
+                "id": "3480"
+            },
+            {
+                "name": "Guthix kiteshield",
+                "id": "2675"
+            }
+        ],
+        "name": "Guthix armour set (sk)",
+        "id": "13050"
+    },
+    "12970": {
+        "parts": [
+            {
+                "name": "Bronze full helm (g)",
+                "id": "12211"
+            },
+            {
+                "name": "Bronze platebody (g)",
+                "id": "12205"
+            },
+            {
+                "name": "Bronze plateskirt (g)",
+                "id": "12209"
+            },
+            {
+                "name": "Bronze kiteshield (g)",
+                "id": "12213"
+            }
+        ],
+        "name": "Bronze gold-trimmed set (sk)",
+        "id": "12970"
+    },
+    "13157": {
+        "parts": [
+            {
+                "name": "Armadyl page 1",
+                "id": "12617"
+            },
+            {
+                "name": "Armadyl page 2",
+                "id": "12618"
+            },
+            {
+                "name": "Armadyl page 3",
+                "id": "12619"
+            },
+            {
+                "name": "Armadyl page 4",
+                "id": "12620"
+            }
+        ],
+        "name": "Book of law page set",
+        "id": "13157"
+    },
+    "13048": {
+        "parts": [
+            {
+                "name": "Guthix full helm",
+                "id": "2673"
+            },
+            {
+                "name": "Guthix platebody",
+                "id": "2669"
+            },
+            {
+                "name": "Guthix platelegs",
+                "id": "2671"
+            },
+            {
+                "name": "Guthix kiteshield",
+                "id": "2675"
+            }
+        ],
+        "name": "Guthix armour set (lg)",
+        "id": "13048"
+    },
+    "13155": {
+        "parts": [
+            {
+                "name": "Bandos page 1",
+                "id": "12613"
+            },
+            {
+                "name": "Bandos page 2",
+                "id": "12614"
+            },
+            {
+                "name": "Bandos page 3",
+                "id": "12615"
+            },
+            {
+                "name": "Bandos page 4",
+                "id": "12616"
+            }
+        ],
+        "name": "Book of war page set",
+        "id": "13155"
+    },
+    "13161": {
+        "parts": [
+            {
+                "name": "Zamorak coif",
+                "id": "10374"
+            },
+            {
+                "name": "Zamorak d'hide",
+                "id": "10370"
+            },
+            {
+                "name": "Zamorak chaps",
+                "id": "10372"
+            },
+            {
+                "name": "Zamorak bracers",
+                "id": "10368"
+            }
+        ],
+        "name": "Zamorak dragonhide set",
+        "id": "13161"
+    },
+    "13153": {
+        "parts": [
+            {
+                "name": "Guthix page 1",
+                "id": "3835"
+            },
+            {
+                "name": "Guthix page 2",
+                "id": "3836"
+            },
+            {
+                "name": "Guthix page 3",
+                "id": "3837"
+            },
+            {
+                "name": "Guthix page 4",
+                "id": "3838"
+            }
+        ],
+        "name": "Book of balance page set",
+        "id": "13153"
+    },
+    "13044": {
+        "parts": [
+            {
+                "name": "Zamorak full helm",
+                "id": "2657"
+            },
+            {
+                "name": "Zamorak platebody",
+                "id": "2653"
+            },
+            {
+                "name": "Zamorak platelegs",
+                "id": "2655"
+            },
+            {
+                "name": "Zamorak kiteshield",
+                "id": "2659"
+            }
+        ],
+        "name": "Zamorak armour set (lg)",
+        "id": "13044"
+    },
+    "13151": {
+        "parts": [
+            {
+                "name": "Zamorak page 1",
+                "id": "3831"
+            },
+            {
+                "name": "Zamorak page 2",
+                "id": "3832"
+            },
+            {
+                "name": "Zamorak page 3",
+                "id": "3833"
+            },
+            {
+                "name": "Zamorak page 4",
+                "id": "3834"
+            }
+        ],
+        "name": "Unholy book page set",
+        "id": "13151"
+    },
+    "13028": {
+        "parts": [
+            {
+                "name": "Rune full helm (t)",
+                "id": "2627"
+            },
+            {
+                "name": "Rune platebody (t)",
+                "id": "2623"
+            },
+            {
+                "name": "Rune platelegs (t)",
+                "id": "2625"
+            },
+            {
+                "name": "Rune kiteshield (t)",
+                "id": "2629"
+            }
+        ],
+        "name": "Rune trimmed set (lg)",
+        "id": "13028"
+    },
+    "13175": {
+        "parts": [
+            {
+                "name": "Red halloween mask",
+                "id": "1057"
+            },
+            {
+                "name": "Green halloween mask",
+                "id": "1053"
+            },
+            {
+                "name": "Blue halloween mask",
+                "id": "1055"
+            }
+        ],
+        "name": "Halloween mask set",
+        "id": "13175"
+    },
+    "13060": {
+        "parts": [
+            {
+                "name": "Ancient full helm",
+                "id": "12466"
+            },
+            {
+                "name": "Ancient platebody",
+                "id": "12460"
+            },
+            {
+                "name": "Ancient platelegs",
+                "id": "12462"
+            },
+            {
+                "name": "Ancient kiteshield",
+                "id": "12468"
+            }
+        ],
+        "name": "Ancient rune armour set (lg)",
+        "id": "13060"
+    },
+    "13159": {
+        "parts": [
+            {
+                "name": "Ancient page 1",
+                "id": "12621"
+            },
+            {
+                "name": "Ancient page 2",
+                "id": "12622"
+            },
+            {
+                "name": "Ancient page 3",
+                "id": "12623"
+            },
+            {
+                "name": "Ancient page 4",
+                "id": "12624"
+            }
+        ],
+        "name": "Book of darkness page set",
+        "id": "13159"
+    },
+    "13167": {
+        "parts": [
+            {
+                "name": "Bandos coif",
+                "id": "12504"
+            },
+            {
+                "name": "Bandos d'hide",
+                "id": "12500"
+            },
+            {
+                "name": "Bandos chaps",
+                "id": "12502"
+            },
+            {
+                "name": "Bandos bracers",
+                "id": "12498"
+            }
+        ],
+        "name": "Bandos dragonhide set",
+        "id": "13167"
+    },
+    "13016": {
+        "parts": [
+            {
+                "name": "Adamant full helm (t)",
+                "id": "2605"
+            },
+            {
+                "name": "Adamant platebody (t)",
+                "id": "2599"
+            },
+            {
+                "name": "Adamant platelegs (t)",
+                "id": "2601"
+            },
+            {
+                "name": "Adamant kiteshield (t)",
+                "id": "2603"
+            }
+        ],
+        "name": "Adamant trimmed set (lg)",
+        "id": "13016"
+    },
+    "13014": {
+        "parts": [
+            {
+                "name": "Adamant full helm",
+                "id": "1161"
+            },
+            {
+                "name": "Adamant platebody",
+                "id": "1123"
+            },
+            {
+                "name": "Adamant plateskirt",
+                "id": "1091"
+            },
+            {
+                "name": "Adamant kiteshield",
+                "id": "1199"
+            }
+        ],
+        "name": "Adamant set (sk)",
+        "id": "13014"
+    },
+    "13036": {
+        "parts": [
+            {
+                "name": "Gilded full helm",
+                "id": "3486"
+            },
+            {
+                "name": "Gilded platebody",
+                "id": "3481"
+            },
+            {
+                "name": "Gilded platelegs",
+                "id": "3483"
+            },
+            {
+                "name": "Gilded kiteshield",
+                "id": "3488"
+            }
+        ],
+        "name": "Gilded armour set (lg)",
+        "id": "13036"
+    },
+    "13012": {
+        "parts": [
+            {
+                "name": "Adamant full helm",
+                "id": "1161"
+            },
+            {
+                "name": "Adamant platebody",
+                "id": "1123"
+            },
+            {
+                "name": "Adamant platelegs",
+                "id": "1073"
+            },
+            {
+                "name": "Adamant kiteshield",
+                "id": "1199"
+            }
+        ],
+        "name": "Adamant set (lg)",
+        "id": "13012"
+    },
+    "13032": {
+        "parts": [
+            {
+                "name": "Rune full helm (g)",
+                "id": "2619"
+            },
+            {
+                "name": "Rune platebody (g)",
+                "id": "2615"
+            },
+            {
+                "name": "Rune platelegs (g)",
+                "id": "2617"
+            },
+            {
+                "name": "Rune kiteshield (g)",
+                "id": "2621"
+            }
+        ],
+        "name": "Rune gold-trimmed set (lg)",
+        "id": "13032"
+    },
+    "13010": {
+        "parts": [
+            {
+                "name": "Mithril full helm (g)",
+                "id": "12283"
+            },
+            {
+                "name": "Mithril platebody (g)",
+                "id": "12277"
+            },
+            {
+                "name": "Mithril plateskirt (g)",
+                "id": "12285"
+            },
+            {
+                "name": "Mithril kiteshield (g)",
+                "id": "12281"
+            }
+        ],
+        "name": "Mithril gold-trimmed set (sk)",
+        "id": "13010"
+    },
+    "13052": {
+        "parts": [
+            {
+                "name": "Armadyl full helm",
+                "id": "12476"
+            },
+            {
+                "name": "Armadyl platebody",
+                "id": "12470"
+            },
+            {
+                "name": "Armadyl platelegs",
+                "id": "12472"
+            },
+            {
+                "name": "Armadyl kiteshield",
+                "id": "12478"
+            }
+        ],
+        "name": "Armadyl rune armour set (lg)",
+        "id": "13052"
+    },
+    "13038": {
+        "parts": [
+            {
+                "name": "Gilded full helm",
+                "id": "3486"
+            },
+            {
+                "name": "Gilded platebody",
+                "id": "3481"
+            },
+            {
+                "name": "Gilded plateskirt",
+                "id": "3485"
+            },
+            {
+                "name": "Gilded kiteshield",
+                "id": "3488"
+            }
+        ],
+        "name": "Gilded armour set (sk)",
+        "id": "13038"
+    },
+    "13173": {
+        "parts": [
+            {
+                "name": "Red partyhat",
+                "id": "1038"
+            },
+            {
+                "name": "Yellow partyhat",
+                "id": "1040"
+            },
+            {
+                "name": "Blue partyhat",
+                "id": "1042"
+            },
+            {
+                "name": "Purple partyhat",
+                "id": "1046"
+            },
+            {
+                "name": "Green partyhat",
+                "id": "1044"
+            },
+            {
+                "name": "White partyhat",
+                "id": "1048"
+            }
+        ],
+        "name": "Partyhat set",
+        "id": "13173"
+    },
+    "13046": {
+        "parts": [
+            {
+                "name": "Zamorak full helm",
+                "id": "2657"
+            },
+            {
+                "name": "Zamorak platebody",
+                "id": "2653"
+            },
+            {
+                "name": "Zamorak plateskirt",
+                "id": "3478"
+            },
+            {
+                "name": "Zamorak kiteshield",
+                "id": "2659"
+            }
+        ],
+        "name": "Zamorak armour set (sk)",
+        "id": "13046"
+    },
+    "13056": {
+        "parts": [
+            {
+                "name": "Bandos full helm",
+                "id": "12486"
+            },
+            {
+                "name": "Bandos platebody",
+                "id": "12480"
+            },
+            {
+                "name": "Bandos platelegs",
+                "id": "12482"
+            },
+            {
+                "name": "Bandos kiteshield",
+                "id": "12488"
+            }
+        ],
+        "name": "Bandos rune armour set (lg)",
+        "id": "13056"
+    },
+    "13034": {
+        "parts": [
+            {
+                "name": "Rune full helm (g)",
+                "id": "2619"
+            },
+            {
+                "name": "Rune platebody (g)",
+                "id": "2615"
+            },
+            {
+                "name": "Rune plateskirt (g)",
+                "id": "3476"
+            },
+            {
+                "name": "Rune kiteshield (g)",
+                "id": "2621"
+            }
+        ],
+        "name": "Rune gold-trimmed set (sk)",
+        "id": "13034"
+    },
+    "13054": {
+        "parts": [
+            {
+                "name": "Armadyl full helm",
+                "id": "12476"
+            },
+            {
+                "name": "Armadyl platebody",
+                "id": "12470"
+            },
+            {
+                "name": "Armadyl plateskirt",
+                "id": "12474"
+            },
+            {
+                "name": "Armadyl kiteshield",
+                "id": "12478"
+            }
+        ],
+        "name": "Armadyl rune armour set (sk)",
+        "id": "13054"
+    },
+    "12982": {
+        "parts": [
+            {
+                "name": "Iron full helm (g)",
+                "id": "12241"
+            },
+            {
+                "name": "Iron platebody (g)",
+                "id": "12235"
+            },
+            {
+                "name": "Iron plateskirt (g)",
+                "id": "12239"
+            },
+            {
+                "name": "Iron kiteshield (g)",
+                "id": "12243"
+            }
+        ],
+        "name": "Iron gold-trimmed set (sk)",
+        "id": "12982"
+    }
+}
