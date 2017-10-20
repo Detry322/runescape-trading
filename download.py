@@ -38,7 +38,7 @@ def load_item(item_summary):
     raise Exception("Couldn't load item {} ({}) after {} tries".format(item_summary['name'], item_summary['id'], MAX_RETRY))
 
 def filter_criteria(item_summary):
-    return item_summary['overall_average'] > 4 and not os.path.isfile(relative_path('data', '{}.json'.format(item_summary['id'])))
+    return not os.path.isfile(relative_path('data', '{}.json'.format(item_summary['id'])))
 
 def download_items(items):
     p = ThreadPool(32)
