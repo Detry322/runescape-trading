@@ -5,7 +5,7 @@ from helpers import relative_path, find_end_time
 from orderbook import Orderbook
 
 END_TIME = find_end_time()
-ITEMSET_FILTER = lambda s: s.etf_volume_at(END_TIME) > 3 and s.sum_volume_at(END_TIME) > 10
+ITEMSET_FILTER = lambda s: s.etf_volume_at(END_TIME) > 1 and s.sum_volume_at(END_TIME) > 4
 
 class ItemSet(object):
     def __init__(self, summary, set_description):
@@ -58,21 +58,21 @@ def show_overview(sets_json, summary):
 def show_item(sets_json, summary, item_id):
     item_set = ItemSet(summary, sets_json[item_id])
     print "{}".format(item_set)
-    print "{: <10} {: <10} {: <10} {: <10} {: <10}".format("Price", "Bid", "Ask", "Volume", "Item")
-    print "{: <10} {: <10} {: <10} {: <10} {: <10}".format(
+    print "{: >10} {: >10} {: >10} {: >10}   {: <10}".format("Price", "Bid", "Ask", "Volume", "Item")
+    print "{: >10} {: >10} {: >10} {: >10}   {: <10}".format(
                                                    item_set.etf_price_at(END_TIME), 
                                                    item_set.etf_bid_at(END_TIME), 
                                                    item_set.etf_offer_at(END_TIME),
                                                    item_set.etf_volume_at(END_TIME),
                                                    item_set.orderbook)
-    print "{: <10} {: <10} {: <10} {: <10} {: <10}".format(
+    print "{: >10} {: >10} {: >10} {: >10}   {: <10}".format(
                                                    item_set.sum_price_at(END_TIME), 
                                                    item_set.sum_bid_at(END_TIME), 
                                                    item_set.sum_offer_at(END_TIME),
                                                    item_set.sum_volume_at(END_TIME),
                                                    "Total")
     for part in item_set.parts:
-        print "{: <10} {: <10} {: <10} {: <10} {: <10}".format(
+        print "{: >10} {: >10} {: >10} {: >10}   {: <10}".format(
                                                part.price_at(END_TIME), 
                                                part.bid_at(END_TIME), 
                                                part.offer_at(END_TIME),
