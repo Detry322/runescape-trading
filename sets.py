@@ -4,8 +4,12 @@ import sys
 from helpers import relative_path, find_end_time
 from orderbook import Orderbook
 
+# filters
+arb_filter = lambda s: s.sum_offer_at(END_TIME) < s.etf_bid_at(END_TIME) or s.sum_bid_at(END_TIME) > s.etf_offer_at(END_TIME)
+vol_filter = lambda s: s.sum_volume_at(END_TIME) > 100 and s.etf_volume_at(END_TIME) > 10
+
 END_TIME = find_end_time()
-ITEMSET_FILTER = lambda s: s.etf_volume_at(END_TIME) > 1 and s.sum_volume_at(END_TIME) > 4
+ITEMSET_FILTER = vol_filter
 
 class ItemSet(object):
     def __init__(self, summary, set_description):

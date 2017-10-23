@@ -9,9 +9,9 @@ from metrics import orderbook_stddev, orderbook_spread, orderbook_unbounded, ord
 INCREMENT = 30*60*1000 # 30 minutes
 HISTORY_AMOUNT = 4*24*60*60*1000 # how many ms in the past to look at, in this case, 4 days
 
-METRIC = orderbook_regression_error
+METRIC = normalized(orderbook_regression_error)
 ITEM_FILTER = lambda item: 1500000 > item['overall_average'] > 2000
-ORDERBOOK_FILTER = lambda orderbook: orderbook.volume_at(END_TIME)
+ORDERBOOK_FILTER = lambda orderbook: orderbook.volume_at(END_TIME) > 10
 
 # Calculated
 
