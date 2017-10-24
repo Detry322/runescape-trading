@@ -7,9 +7,10 @@ from orderbook import Orderbook
 # filters
 arb_filter = lambda s: s.sum_offer_at(END_TIME) < s.etf_bid_at(END_TIME) or s.sum_bid_at(END_TIME) > s.etf_offer_at(END_TIME)
 vol_filter = lambda s: s.sum_volume_at(END_TIME) > 100 and s.etf_volume_at(END_TIME) > 10
+no_filter = lambda s: True
 
 END_TIME = find_end_time()
-ITEMSET_FILTER = vol_filter
+ITEMSET_FILTER = arb_filter
 
 class ItemSet(object):
     def __init__(self, summary, set_description):
@@ -57,10 +58,11 @@ def load_sets(sets_json, summary):
 
 def show_overview(sets_json, summary):
     sets = load_sets(sets_json, summary)
+    print "{: >11} {: >11} {: >11} {: >11} {: >11}    {}".format("ETF Vol", "Min Vol", "Price Diff", "Sum Price", "ETF Price", "ItemSet")
     for s in sorted(sets, key=lambda s: abs(s.sum_price_at(END_TIME) - s.etf_price_at(END_TIME)), reverse=True):
         sump = s.sum_price_at(END_TIME)
         etfp = s.etf_price_at(END_TIME)
-        print "{:< 10} {:< 10} {:< 10.0f} {:< 10.0f} {:< 10.0f} {}".format(s.etf_volume_at(END_TIME), s.min_volume_at(END_TIME), sump - etfp, sump, etfp, s)
+        print "{: >11} {: >11} {: >11} {: >11} {: >11}    {}".format(s.etf_volume_at(END_TIME), s.min_volume_at(END_TIME), sump - etfp, sump, etfp, s)
 
 def show_item(sets_json, summary, item_id):
     item_set = ItemSet(summary, sets_json[item_id])
