@@ -27,6 +27,9 @@ class ItemSet(object):
     def sum_volume_at(self, timestamp):
         return sum(part.volume_at(timestamp) for part in self.parts)
 
+    def min_volume_at(self, timestamp):
+        return min(part.volume_at(timestamp) for part in self.parts)
+
     def etf_volume_at(self, timestamp):
         return self.orderbook.volume_at(timestamp)
 
@@ -57,7 +60,7 @@ def show_overview(sets_json, summary):
     for s in sorted(sets, key=lambda s: abs(s.sum_price_at(END_TIME) - s.etf_price_at(END_TIME)), reverse=True):
         sump = s.sum_price_at(END_TIME)
         etfp = s.etf_price_at(END_TIME)
-        print "{:< 10.02f} {:< 10.0f} {:< 10.0f} {:< 10.0f} {}".format(s.sum_volume_at(END_TIME), sump - etfp, sump, etfp, s)
+        print "{:< 10} {:< 10} {:< 10.0f} {:< 10.0f} {:< 10.0f} {}".format(s.etf_volume_at(END_TIME), s.min_volume_at(END_TIME), sump - etfp, sump, etfp, s)
 
 def show_item(sets_json, summary, item_id):
     item_set = ItemSet(summary, sets_json[item_id])
